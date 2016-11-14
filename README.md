@@ -1,7 +1,7 @@
 # Theses
 
 The following are students of [[https://www.amrita.edu/center/tifac-core-cyber-security][TIFAC Core Cyber Security]].
-Alphabetically ordered on given name.
+Alphabetically ordered on given name.  Dr Prabhaker Mateti, Wright State U, was their advisor.
 
 * MTech 2016
 
